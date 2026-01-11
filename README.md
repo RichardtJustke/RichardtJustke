@@ -1,19 +1,61 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FC5022&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+mensagem+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-<!--
-**RichardtJustke/RichardtJustke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+banner
+#
 
-Here are some ideas to get you started:
+<p align="center">
+  Estudante de <strong>Ciência da Computação</strong> • Designer & Desenvolvedor em formação
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Atualmente estudo <strong>JavaScript</strong>, <strong>Python</strong> e desenvolvimento web,  
+  unindo <strong>design</strong> e <strong>tecnologia</strong> para criar experiências digitais bem pensadas.
+</p>
+
+<p align="center">
+  Sou apaixonado por aprender, evoluir constantemente e transformar ideias em soluções visuais e funcionais.
+</p>
+<p align="center">
+  Gosto de desafios, de sair do conforto e de aprender fazendo — errando, ajustando e melhorando.
+</p>
+
+<p align="center">
+  Tenho fome de conhecimento e ambição de crescer na área, não apenas como programador,  
+  mas como alguém que constrói soluções cada vez melhores.
+</p>
+
+#
+
+<img align="right" alt="" height="190px" src="./src/giphy.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:rj.justke@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rjustke/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FC5022&color:FFF)](https://www.instagram.com/mari4.souza/)
+
+<h3 align="left">My Stack ~</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img width="8" />
+
+#
+github stats
+#
+portifolio
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RichardtJustke/RichardtJustke/output/github-contribution-grid-snake-dark.svg">
