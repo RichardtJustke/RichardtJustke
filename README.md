@@ -1,11 +1,11 @@
 <div align="center">
- <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FC5022&width=435&lines=Welcome+to+my+profile." alt="Typing SVG" />
- </a>
+<a href="https://git.io/typing-svg">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FC5022&width=435&lines=Welcome!+Feel+free+to+explore+my+projects%3A)" alt="Typing SVG" />
+</a>
 </div>
 
 
-<img align="center" src="./src/banner.gif">
+<img align="center" src="./src/banner.mp4">
 
 
 <p align="center">
