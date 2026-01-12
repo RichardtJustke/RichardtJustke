@@ -5,7 +5,7 @@
 </div>
 
 
-<img align="right" alt="" height="190px" src="./src/banner.gif">
+<img align="center" src="./src/banner.gif">
 
 
 <p align="center">
