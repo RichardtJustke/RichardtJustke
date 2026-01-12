@@ -4,9 +4,9 @@
  </a>
 </div>
 
-#
+
 <img align="right" alt="" height="190px" src="./src/banner.gif">
-#
+
 
 <p align="center">
   Estudante de <strong>Ciência da Computação</strong> • Designer & Desenvolvedor em formação
