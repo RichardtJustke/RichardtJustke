@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Atualmente estudo <strong>JavaScript</strong>, <strong>Python</strong> e desenvolvimento web,  
+  Atualmente estudo <strong>JavaScript</strong>, <strong>Typescript</strong> e desenvolvimento web,  
   unindo <strong>design</strong> e <strong>tecnologia</strong> para criar experiências digitais bem pensadas.
 </p>
 
@@ -60,15 +60,7 @@
   
 
           
-          
-
-#
-github stats
-#
-portifolio
-#
-
-<picture align="center">
+ <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RichardtJustke/RichardtJustke/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RichardtJustke/RichardtJustke/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RichardtJustke/RichardtJustke/output/github-contribution-grid-snake.svg">
