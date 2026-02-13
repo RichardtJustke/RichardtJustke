@@ -13,20 +13,18 @@
 </p>
 
 <p align="center">
-  Atualmente estudo <strong>JavaScript</strong>, <strong>Typescript</strong> e desenvolvimento web,  
-  unindo <strong>design</strong> e <strong>tecnologia</strong> para criar experiências digitais bem pensadas.
+  Atualmente estudo JavaScript, TypeScript e Go, buscando experiências técnicas variadas para ampliar minha base como desenvolvedor — desde aprender novas linguagens para me desafiar até explorar diferentes tecnologias, paradigmas e formas de construir software.
 </p>
 
 <p align="center">
-  Sou apaixonado por aprender, evoluir constantemente e transformar ideias em soluções visuais e funcionais.
+  Sou movido por aprendizado contínuo e evolução constante, transformando ideias em soluções reais — do conceito à implementação.
 </p>
 <p align="center">
-  Gosto de desafios, de sair do conforto e de aprender fazendo — errando, ajustando e melhorando.
+  Gosto de desafios, de sair da zona de conforto e de aprender fazendo: experimentando, errando, refatorando e melhorando a cada projeto.
 </p>
 
 <p align="center">
-  Tenho fome de conhecimento e ambição de crescer na área, não apenas como programador,  
-  mas como alguém que constrói soluções cada vez melhores.
+  Tenho fome de conhecimento e ambição para crescer na área de tecnologia, não apenas como programador, mas como alguém que constrói soluções completas, escaláveis e bem pensadas, independentemente da stack.
 </p>
 
 #
