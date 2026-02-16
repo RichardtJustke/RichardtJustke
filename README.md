@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Atualmente estudo JavaScript, TypeScript e Go, buscando experiências técnicas variadas para ampliar minha base como desenvolvedor — desde aprender novas linguagens para me desafiar até explorar diferentes tecnologias, paradigmas e formas de construir software.
+  Atualmente estudo JavaScript, TypeScript, React e Go, buscando experiências técnicas variadas para ampliar minha base como desenvolvedor — desde aprender novas linguagens para me desafiar até explorar diferentes tecnologias, paradigmas e formas de construir software.
 </p>
 
 <p align="center">
