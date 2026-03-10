@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  Estudante de <strong>Ciência da Computação</strong> • Designer & Desenvolvedor em formação
+  Estudante de <strong>Ciência da Computação</strong> •  Desenvolvedor em formação
 </p>
 
 <p align="center">
