@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  Estudante de <strong>Ciência da Computação</strong> • Designer & Desenvolvedor em formação
+  Estudante de Ciência da Computação • Designer • Fullstack Developer em formação
 </p>
 
 <p align="center">
@@ -28,15 +28,15 @@
   Tenho fome de conhecimento e ambição para crescer na área de tecnologia, não apenas como programador, mas como alguém que constrói soluções completas, escaláveis e bem pensadas, independentemente da stack.
 </p>
 
-#
+
 
 <img align="right" alt="" height="190px" src="./src/giphy.gif">
-
 <h3 align="left">Entre em contato comigo!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:rj.justke@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rjustke/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FC5022&color:FFF)](https://www.instagram.com/heyy.justke/)
+
 
 <h3 align="left">My Stack</h3>
 
@@ -57,7 +57,51 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="25" alt="figma logo" />
   <img width="8" />
-          
+
+<h3 align="left">Currently Learning</h3>
+
+<p align="left">
+
+• Backend development with Go  
+• Rust fundamentals  
+• APIs and distributed systems  
+• System-level programming concepts  
+• Building developer tools
+
+</p>
+
+
+<h3 align="left">Featured Projects</h3>
+
+<p align="left">
+
+🚀 <strong>justke-cli</strong><br>
+A terminal-based portfolio built as a CLI application to explore Go and terminal interfaces.
+
+🖥️ <strong>justke-os</strong><br>
+Experimental portfolio distributed as an ISO image to explore low-level programming and system concepts.
+
+💼 <strong>Ketsu Projects</strong><br>
+Real-world development projects built together with my colleague, focused on delivering solutions for real clients.
+
+🤖 <strong>Reboot</strong><br>
+Arduino robot created for experimentation and learning electronics and embedded programming.
+
+📚 <strong>Aprendizado</strong><br>
+Repository where I document my programming studies, exercises and experiments across multiple languages.
+
+</p>
+<h3 align="left">GitHub Stats</h3>
+
+<p align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=RichardtJustke&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardtJustke&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+  
+
+
+    
   
 
           
