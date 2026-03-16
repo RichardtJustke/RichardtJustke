@@ -8,24 +8,24 @@
 <img align="center" src="./src/banner.gif">
 
 
-<p align="center">
-  Estudante de Ciência da Computação • Designer • Fullstack Developer em formação
+<p align="center"><div align="center">
+ Computer Science Student • Designer • Fullstack Developer in progress
 </p>
 
 <p align="center">
-  Atualmente estudo JavaScript, TypeScript, React e Go, buscando experiências técnicas variadas para ampliar minha base como desenvolvedor — desde aprender novas linguagens para me desafiar até explorar diferentes tecnologias, paradigmas e formas de construir software.
+  Currently studying JavaScript, TypeScript, React and Go, seeking diverse technical experiences to expand my foundation as a developer — from learning new languages to challenge myself to exploring different technologies, paradigms and ways of building software.
 </p>
 
 <p align="center">
-  Sou movido por aprendizado contínuo e evolução constante, transformando ideias em soluções reais — do conceito à implementação.
+ I’m driven by continuous learning and constant evolution, transforming ideas into real solutions — from concept to implementation.
 </p>
 
 <p align="center">
-  Gosto de desafios, de sair da zona de conforto e de aprender fazendo: experimentando, errando, refatorando e melhorando a cada projeto.
+  I enjoy challenges, stepping out of my comfort zone and learning by doing: experimenting, making mistakes, refactoring and improving with every project.
 </p>
 
 <p align="center">
-  Tenho fome de conhecimento e ambição para crescer na área de tecnologia, não apenas como programador, mas como alguém que constrói soluções completas, escaláveis e bem pensadas, independentemente da stack.
+  I have a strong desire to grow in the technology field, not only as a programmer, but as someone who builds complete, scalable and well-designed solutions, regardless of the stack.
 </p>
 
 
