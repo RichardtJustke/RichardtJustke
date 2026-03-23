@@ -29,15 +29,14 @@
 </p>
 
 
-
 <img align="right" alt="" height="190px" src="./src/giphy.gif">
-<h3 align="left">Entre em contato comigo!</h3>
+<h3 align="left">Entre em contato comigo!<br>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:rj.justke@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rjustke/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FC5022&color:FFF)](https://www.instagram.com/heyy.justke/)
 
-
+</h3>
 <h3 align="left">My Stack</h3>
 
 <div align="left">
