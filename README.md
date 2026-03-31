@@ -86,25 +86,19 @@
 
 <h3 align="center">GitHub Stats</h3>
 
-<!-- gitMyStat — User Card -->
+<!-- Linha 1: User + Top Languages -->
 <div align="center">
-  <img src="https://gitmystat.vercel.app/user?username=RichardtJustke&theme=dark" alt="User Stats" />
+  <img src="https://gitmystat.vercel.app/user?username=RichardtJustke&theme=dark" alt="User Stats" height="200" />
+  &nbsp;&nbsp;
+  <img src="https://gitmystat.vercel.app/top?username=RichardtJustke&theme=dark" alt="Top Languages" height="200" />
 </div>
 
 <br>
 
-<!-- gitMyStat — Top Languages + Recent Repos (lado a lado) -->
+<!-- Linha 2: Recent Repos + Repo Card -->
 <div align="center">
-  <img src="https://gitmystat.vercel.app/top?username=RichardtJustke&theme=dark" alt="Top Languages" />
-  &nbsp;
-  <img src="https://gitmystat.vercel.app/recent?username=RichardtJustke&theme=dark" alt="Recent Repos" />
-</div>
-
-<br>
-
-<!-- gitMyStat — Repo Card (destaque: justke-cli) -->
-<div align="center">
-  <img src="https://gitmystat.vercel.app/repo?username=RichardtJustke&repo=justke-cli&theme=dark" alt="justke-cli repo card" />
+  <img src="https://gitmystat.vercel.app/recent?username=RichardtJustke&theme=dark" alt="Recent Repos" height="200" />
+  &nbsp;&nbsp;
 </div>
 
 ---
