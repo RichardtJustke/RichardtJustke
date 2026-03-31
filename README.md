@@ -95,7 +95,7 @@
 
 <!-- gitMyStat — Top Languages + Recent Repos (lado a lado) -->
 <div align="center">
-  <img src="https://gitmystat.vercel.app/languages?username=RichardtJustke&theme=dark" alt="Top Languages" />
+  <img src="https://gitmystat.vercel.app/top?username=RichardtJustke&theme=dark" alt="Top Languages" />
   &nbsp;
   <img src="https://gitmystat.vercel.app/recent?username=RichardtJustke&theme=dark" alt="Recent Repos" />
 </div>
