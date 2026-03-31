@@ -93,8 +93,8 @@ Repository where I document my programming studies, exercises and experiments ac
 <h3 align="left">GitHub Stats</h3>
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=RichardtJustke&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardtJustke&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RichardtJustke&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RichardtJustke&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
   
