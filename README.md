@@ -103,16 +103,6 @@
 
 ---
 
-<h3 align="center">Terminal</h3>
-
-<!-- github-readme-terminal -->
-<!-- Gere seu GIF em: https://github.com/x0rzavi/github-readme-terminal -->
-<!-- Após gerar, substitua o src abaixo pelo link do seu GIF (ImgBB ou direto do repo) -->
-<div align="center">
-  <img src="./src/terminal.gif" alt="GitHub Readme Terminal" />
-</div>
-
----
 
 <!-- Snake contribution grid -->
 <picture align="center">
