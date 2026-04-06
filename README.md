@@ -102,7 +102,7 @@
 </div>
 
 ---
-###new feature
+###new 
 ---
 <!-- Snake contribution grid -->
 <picture align="center">
