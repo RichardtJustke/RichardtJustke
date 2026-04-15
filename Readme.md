@@ -80,26 +80,57 @@ My workflow is shaped by a mix of design thinking, Linux, terminal tools and low
 
 ---
 
+## ▸ Some Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%" align="left">
+      <h3>EasyPlan Supervisor</h3>
+      <p>Mobile-first supervisor app built with Ionic/Angular, focused on productivity and operational flow.</p>
+      <a href="https://github.com/RichardtJustke?tab=repositories">
+        <img src="https://img.shields.io/badge/View-Project-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
+      </a>
+    </td>
+    <td width="33%" align="left">
+      <h3>My Portfolio</h3>
+      <p>Personal portfolio designed and developed to showcase projects, visual identity and technical growth.</p>
+      <a href="https://github.com/RichardtJustke?tab=repositories">
+        <img src="https://img.shields.io/badge/View-Project-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
+      </a>
+    </td>
+    <td width="33%" align="left">
+      <h3>Pomodoro API</h3>
+      <p>Backend API in Go for time and focus management, using clean and minimal service structure.</p>
+      <a href="https://github.com/RichardtJustke?tab=repositories">
+        <img src="https://img.shields.io/badge/View-Project-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## ▸ Statistics
 
 <!-- Linha 1 -->
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RichardtJustke&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=aaaaaa&text_color=ffffff"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardtJustke&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RichardtJustke&show_icons=true&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&icon_color=aaaaaa&text_color=ffffff"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardtJustke&layout=compact&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&text_color=ffffff"/>
 </div>
 
 <br/>
 
 <!-- Linha 2 -->
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
+<img width="100%" src="https://streak-stats.demolab.com/?user=RichardtJustke&theme=dark&background=000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff"/>
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=RichardtJustke&theme=dark&bg_color=000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RichardtJustke&theme=react-dark&hide_border=true"/>
 
 
 <img width="100%" src="https://raw.githubusercontent.com/RichardtJustke/RichardtJustke/output/github-contribution-grid-snake-dark.svg"/>
 
 
-  </tr>
 </table>
