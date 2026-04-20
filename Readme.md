@@ -82,7 +82,6 @@ My workflow is shaped by a mix of design thinking, Linux, terminal tools and low
 <p>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
   <img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=1793D1"/>
-  <img src="https://img.shields.io/badge/Nix-000000?style=for-the-badge&logo=nixos&logoColor=5277C3"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=57A143"/>
 </p>
