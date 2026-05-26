@@ -85,7 +85,7 @@ My workflow is shaped by a mix of design thinking, Linux, terminal tools and low
 <!-- Linha 1 -->
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=RichardtJustke&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=aaaaaa&text_color=ffffff"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardtJustke&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff"/>
+  <img height="180" src="https://gitmystat.vercel.app/top?username=RichardtJustke&theme=dark"/>
 </div>
 
 <br/>
