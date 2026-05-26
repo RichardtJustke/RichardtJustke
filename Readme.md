@@ -138,20 +138,14 @@ My workflow is shaped by a mix of design thinking, Linux, terminal tools and low
 <!-- Linha 1: vários cards gitmystat -->
 <div align="center">
   <a href="https://github.com/RichardtJustke" rel="noopener">
-    <img height="140" src="https://gitmystat.vercel.app/user?username=RichardtJustke&theme=dark&cache_seconds=86400" alt="gitmystat user" />
+    <img height="200" src="https://gitmystat.vercel.app/user?username=RichardtJustke&theme=dark&cache_seconds=86400" alt="gitmystat user" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/RichardtJustke" rel="noopener">
-    <img height="140" src="https://gitmystat.vercel.app/top?username=RichardtJustke&theme=dark&cache_seconds=86400" alt="gitmystat top" />
+    <img height="200" src="https://gitmystat.vercel.app/top?username=RichardtJustke&layout=bar&theme=dark&cache_seconds=86400" alt="gitmystat top bar" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/RichardtJustke" rel="noopener">
-    <img height="140" src="https://gitmystat.vercel.app/top?username=RichardtJustke&layout=bar&theme=dark&cache_seconds=86400" alt="gitmystat top bar" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/RichardtJustke" rel="noopener">
-    <img height="140" src="https://gitmystat.vercel.app/repo?username=RichardtJustke&repo=gitmystat&theme=dark&cache_seconds=86400" alt="gitmystat repo" />
-  </a>
+
 </div>
 
 <br/>
