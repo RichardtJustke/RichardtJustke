@@ -149,7 +149,6 @@ My workflow is shaped by a mix of design thinking, Linux, terminal tools and low
 </div>
 
 <br/>
-...
 <!-- Linha 2 -->
 <img width="100%" src="https://streak-stats.demolab.com/?user=RichardtJustke&theme=dark&background=000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff"/>
 
