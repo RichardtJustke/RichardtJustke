@@ -10,7 +10,7 @@
 <h1 align="center">Hey, I'm Richardt &nbsp;<code>/&gt;</code></h1>
 
 <p align="center">
-  <b>Computer Science Student</b> &nbsp;•&nbsp; Designer &nbsp;•&nbsp; Fullstack Developer in progress
+  <b>Computer Science Student</b> &nbsp;•&nbsp; Backend Developer in progress
 </p>
 
 <p align="center">
@@ -49,7 +49,6 @@ I like building things that feel simple to use and solid under the hood.
 My workflow is shaped by a mix of design thinking, Linux, terminal tools and low-level curiosity.
 
 - ➤ **Currently studying:** JavaScript, TypeScript, React and Go  
-- ➤ **Design:** Figma & UI/UX  
 - ➤ **Goal:** Build scalable and well-designed systems  
 - ➤ **Beyond code:** Linux, terminal tooling & low-level concepts  
 
@@ -63,12 +62,7 @@ My workflow is shaped by a mix of design thinking, Linux, terminal tools and low
 
 ### ◇ Frontend & Design
 <p>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-  <img src="https://img.shields.io/badge/Adobe-000000?style=for-the-badge&logo=adobecreativecloud&logoColor=ffffff"/>
 </p>
 
 ### ◇ Languages
