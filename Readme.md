@@ -128,7 +128,8 @@ My workflow is shaped by a mix of design thinking, Linux, terminal tools and low
 ---
 
 ## ▸ Statistics
-
+https://github-stats-extended.vercel.app/api/top-langs?username=RichardtJustke&langs_count=4&theme=dark
+https://github-stats-extended.vercel.app/api?username=RichardtJustke&rank_icon=github&include_all_commits=true&theme=dark
 <!-- Linha 1: vários cards gitmystat -->
 <div align="center">
   <a href="https://github.com/RichardtJustke" rel="noopener">
