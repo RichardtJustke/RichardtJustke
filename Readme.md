@@ -72,6 +72,12 @@ My workflow is shaped by a mix of design thinking, Linux, terminal tools and low
   <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8"/>
 </p>
 
+### ◇ DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+</p>
+
 ### ◇ Tools & Environment
 <p>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
