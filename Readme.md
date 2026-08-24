@@ -156,4 +156,3 @@ My workflow is shaped by a mix of design thinking, Linux, terminal tools and low
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RichardtJustke&theme=github-dark&bg_color=000000&hide_border=true&color=ffffff&line=ffffff&point=ffffff"/>
 
 <img width="100%" src="https://raw.githubusercontent.com/RichardtJustke/RichardtJustke/output/github-contribution-grid-snake-dark.svg"/>
-...
