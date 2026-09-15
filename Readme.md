@@ -63,6 +63,7 @@ My workflow is shaped by a mix of design thinking, Linux, terminal tools and low
 ### ◇ Frontend & Design
 <p>
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 </p>
 
 ### ◇ Languages
