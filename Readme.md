@@ -137,23 +137,9 @@ My workflow is shaped by a mix of design thinking, Linux, terminal tools and low
 ## ▸ Statistics
 
 
-<!-- Linha 1: vários cards gitmystat -->
-<div align="center">
-  <a href="https://github.com/RichardtJustke" rel="noopener">
-    <img height="200" src="https://gitmystat.vercel.app/user?username=RichardtJustke&theme=dark&cache_seconds=86400" alt="gitmystat user" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/RichardtJustke" rel="noopener">
-    <img height="200" src="https://gitmystat.vercel.app/top?username=RichardtJustke&layout=bar&theme=dark&cache_seconds=86400" alt="gitmystat top bar" />
-  </a>
-  &nbsp;&nbsp;
-
-</div>
-
 <br/>
 <!-- Linha 2 -->
 <img width="100%" src="https://streak-stats.demolab.com/?user=RichardtJustke&theme=dark&background=000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RichardtJustke&theme=github-dark&bg_color=000000&hide_border=true&color=ffffff&line=ffffff&point=ffffff"/>
 
 <img width="100%" src="https://raw.githubusercontent.com/RichardtJustke/RichardtJustke/output/github-contribution-grid-snake-dark.svg"/>
