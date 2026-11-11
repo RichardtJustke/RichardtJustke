@@ -12,7 +12,7 @@
 
 <img width="100%" alt="Current streak, active days and contributions per month" src="./cards/activity.svg"/>
 
-<a href="https://ketsu.dev"><img width="33.33%" alt="Build: Ketsu studio" src="./cards/tile-build.svg"/></a><a href="https://github.com/RichardtJustke/folio"><img width="33.33%" alt="Ship: Folio" src="./cards/tile-ship.svg"/></a><a href="https://richardtjustke.tech/blog"><img width="33.33%" alt="Write: the blog" src="./cards/tile-write.svg"/></a>
+<a href="https://www.ketsu.dev/"><img width="33.33%" alt="Build: Ketsu studio" src="./cards/tile-build.svg"/></a><a href="https://github.com/RichardtJustke/folio"><img width="33.33%" alt="Ship: Folio" src="./cards/tile-ship.svg"/></a><a href="https://richardtjustke.tech/blog"><img width="33.33%" alt="Write: the blog" src="./cards/tile-write.svg"/></a>
 
 <img width="100%" alt="02 What I'm building" src="./cards/title-building.svg"/>
 
@@ -24,6 +24,6 @@
 
 <a href="mailto:rj.justke@gmail.com"><img width="33.33%" alt="Email" src="./cards/link-email.svg"/></a><a href="https://richardtjustke.tech"><img width="33.33%" alt="Portfolio" src="./cards/link-portfolio.svg"/></a><a href="https://www.linkedin.com/in/rjustke/"><img width="33.33%" alt="LinkedIn" src="./cards/link-linkedin.svg"/></a>
 
-<a href="https://www.instagram.com/heyy.justke/"><img width="33.33%" alt="Instagram" src="./cards/link-instagram.svg"/></a><a href="https://github.com/RichardtJustke"><img width="33.33%" alt="GitHub" src="./cards/link-github.svg"/></a><a href="https://ketsu.dev"><img width="33.33%" alt="Ketsu studio" src="./cards/link-ketsu.svg"/></a>
+<a href="https://www.instagram.com/heyy.justke/"><img width="33.33%" alt="Instagram" src="./cards/link-instagram.svg"/></a><a href="https://github.com/RichardtJustke"><img width="33.33%" alt="GitHub" src="./cards/link-github.svg"/></a><a href="https://www.ketsu.dev/"><img width="33.33%" alt="Ketsu studio" src="./cards/link-ketsu.svg"/></a>
 
 <img width="100%" alt="© Richardt Justke · Brasília, BR" src="./cards/footer.svg"/>
