@@ -1,145 +1,29 @@
-<!-- Typing -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=FFFFFF&center=true&width=500&lines=Computer+Science+Student+%2F%3E;Designer+%26+Fullstack+Developer;Building+ideas+from+concept+to+implementation."/>
-</div>
+<!--
+  Every image here is drawn by scripts/render_cards.py and refreshed daily by
+  .github/workflows/update-cards.yml. Change texts in the script, not here.
+  Cards that share a row must stay on ONE line with no spaces between tags.
+-->
 
-<img align="center" src="./src/banner.gif">
+<a href="https://richardtjustke.tech"><img width="100%" alt="Richardt Justke — Software Engineer · Founder at Ketsu" src="./cards/hero.svg"/></a>
 
-<br/>
+<a href="https://richardtjustke.tech/about"><img width="100%" alt="About me: Computer Science student, full stack, clean architecture, Linux and terminal tooling" src="./cards/about.svg"/></a>
 
-<h1 align="center">Hey, I'm Richardt &nbsp;<code>/&gt;</code></h1>
+<a href="https://github.com/RichardtJustke"><img width="100%" alt="GitHub contributions in the last 12 months" src="./cards/heatmap.svg"/></a>
 
-<p align="center">
-  <b>Computer Science Student</b> &nbsp;•&nbsp; Backend Developer in progress
-</p>
+<img width="100%" alt="Current streak, active days and contributions per month" src="./cards/activity.svg"/>
 
-<p align="center">
-  <a href="mailto:rj.justke@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rjustke/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
-  </a>
-  <a href="https://www.instagram.com/heyy.justke/">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge"/>
-  </a>
-</p>
+<a href="https://ketsu.dev"><img width="33.33%" alt="Build: Ketsu studio" src="./cards/tile-build.svg"/></a><a href="https://github.com/RichardtJustke/folio"><img width="33.33%" alt="Ship: Folio" src="./cards/tile-ship.svg"/></a><a href="https://richardtjustke.tech/blog"><img width="33.33%" alt="Write: the blog" src="./cards/tile-write.svg"/></a>
 
-<div align="center">
-  <a href="https://richardtjustke.tech">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
-  </a>
-  <a href="https://ketsu.dev">
-    <img src="https://img.shields.io/badge/Ketsu.dev-000000?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
-  </a>
-</div>
+<img width="100%" alt="02 What I'm building" src="./cards/title-building.svg"/>
 
----
+<a href="https://github.com/RichardtJustke/folio"><img width="33.33%" alt="Folio" src="./cards/repo-folio.svg"/></a><a href="https://richardtjustke.tech/work"><img width="33.33%" alt="Nexo" src="./cards/repo-nexo.svg"/></a><a href="https://github.com/RichardtJustke/justke-cli"><img width="33.33%" alt="Justke-cli" src="./cards/repo-cli.svg"/></a>
 
-## ▸ About me
+<img width="100%" alt="Languages I'm using in the last 12 months" src="./cards/languages.svg"/>
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVwNnZvbDduY2k2amo5M3F6d3lzMDQ0eThtYTlsY3Fxd3RqM3hyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VKhy75415VD7QxHX0L/giphy.gif" width="220"/>
+<a href="https://richardtjustke.tech/contact"><img width="100%" alt="Let's talk — have something hard to build?" src="./cards/contact.svg"/></a>
 
-I'm a Computer Science student driven by **continuous learning and evolution**, transforming ideas into real solutions.
+<a href="mailto:rj.justke@gmail.com"><img width="33.33%" alt="Email" src="./cards/link-email.svg"/></a><a href="https://richardtjustke.tech"><img width="33.33%" alt="Portfolio" src="./cards/link-portfolio.svg"/></a><a href="https://www.linkedin.com/in/rjustke/"><img width="33.33%" alt="LinkedIn" src="./cards/link-linkedin.svg"/></a>
 
-I work across the full stack with focus on **clean architecture, performance and visual consistency**.
+<a href="https://www.instagram.com/heyy.justke/"><img width="33.33%" alt="Instagram" src="./cards/link-instagram.svg"/></a><a href="https://github.com/RichardtJustke"><img width="33.33%" alt="GitHub" src="./cards/link-github.svg"/></a><a href="https://ketsu.dev"><img width="33.33%" alt="Ketsu studio" src="./cards/link-ketsu.svg"/></a>
 
-I like building things that feel simple to use and solid under the hood.
-
-My workflow is shaped by a mix of design thinking, Linux, terminal tools and low-level curiosity.
-
-- ➤ **Currently studying:** JavaScript, TypeScript, React and Go  
-- ➤ **Goal:** Build scalable and well-designed systems  
-- ➤ **Beyond code:** Linux, terminal tooling & low-level concepts  
-
-<br/><br/>
-
----
-
-## ▸ Tech Stack
-
-<div align="center">
-
-### ◇ Frontend & Design
-<p>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-</p>
-
-### ◇ Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8"/>
-</p>
-
-### ◇ DevOps
-<p>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-  <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
-</p>
-
-### ◇ Tools & Environment
-<p>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=1793D1"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=57A143"/>
-</p>
-
-</div>
-
----
-
-## ▸ Some Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" align="left">
-      <h3>Reboot</h3>
-      <p>Projeto focado em recomeço, refinamento de identidade e evolução visual.</p>
-      <a href="https://github.com/RichardtJustke?tab=repositories">
-        <img src="https://img.shields.io/badge/View-Project-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
-      </a>
-    </td>
-    <td width="50%" align="left">
-      <h3>Justke CLI</h3>
-      <p>Ferramenta de terminal para agilizar rotinas e comandos do dia a dia.</p>
-      <a href="https://github.com/RichardtJustke?tab=repositories">
-        <img src="https://img.shields.io/badge/View-Project-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="left">
-      <h3>Aprendizado</h3>
-      <p>Espaço para estudo, prática contínua e consolidação de conhecimento.</p>
-      <a href="https://github.com/RichardtJustke?tab=repositories">
-        <img src="https://img.shields.io/badge/View-Project-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
-      </a>
-    </td>
-    <td width="50%" align="left">
-      <h3>MyPortfolio</h3>
-      <p>Meu portfólio pessoal para mostrar projetos, estilo visual e evolução técnica.</p>
-      <a href="https://github.com/RichardtJustke?tab=repositories">
-        <img src="https://img.shields.io/badge/View-Project-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## ▸ Statistics
-
-
-<br/>
-<!-- Linha 2 -->
-<img width="100%" src="https://streak-stats.demolab.com/?user=RichardtJustke&theme=dark&background=000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff"/>
-
-
-<img width="100%" src="https://raw.githubusercontent.com/RichardtJustke/RichardtJustke/output/github-contribution-grid-snake-dark.svg"/>
+<img width="100%" alt="© Richardt Justke · Brasília, BR" src="./cards/footer.svg"/>
